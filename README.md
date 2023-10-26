@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for my CMPG 323 Project 5, where I've meticulously crafted a comprehensive Power BI report for EcoPower Logistics. This project's core mission is to establish an efficient logistics management system, empowering stakeholders to effortlessly monitor orders, products, and customers while gaining actionable insights for informed decision-making.
 
+Report Link: [EcoPower Logistics Power BI Report](https://app.powerbi.com/links/AZBiuatqmo?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare)
+
 ## Project Overview
 
 The driving force behind this project is the creation of a Power BI report that adeptly navigates the intricate landscape of acquiring, storing, and globally transporting resources and goods. In this endeavor, our logistics management system elegantly processes orders and leverages a secure warehouse for data storage. The data is artfully visualized through reports and dashboards, catering to diverse stakeholders with varying levels of access. This report is the beacon for monitoring orders and tracking product sales.
@@ -26,7 +28,7 @@ Steadfast dedication to project organization was a hallmark of this journey, evi
 
 - **Regular Commits and Pushes**: Commitment to the version control process was unwavering, with the report's code and related files consistently committed and pushed to source control to transparently track project progress.
 
-- **GitHub Project**: The GitHub project was thoughtfully updated in iterative fashion, providing stakeholders with a window into the evolving project timeline and the development process.
+- **GitHub Project**: The GitHub project was thoughtfully updated in an iterative fashion, providing stakeholders with a window into the evolving project timeline and the development process.
 
 ## Project Setup
 
